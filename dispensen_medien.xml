@@ -13124,7 +13124,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:51:30+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B07CDE70014D" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13168,7 +13168,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-18T13:24:27+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75B08ADF0002C3" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13232,7 +13232,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:41:04+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CBA44D00146" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13288,7 +13288,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-05T08:52:27+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A8A6D1BC0018B" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13339,7 +13339,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-05T08:29:06+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A8A67465001F5" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13442,7 +13442,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:17:42+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD46A200194" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13540,7 +13540,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:44:17+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CDB11200326" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13650,7 +13650,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:54:33+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CCDA1800136" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -13942,7 +13942,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T08:16:23+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A86417100160" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14012,7 +14012,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2026-10-09T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A67E2820019C" T="2026-10-09T06:59:50Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14042,7 +14042,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2026-10-09T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A4DE98C00349" T="2026-10-09T07:04:56Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14088,7 +14088,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2026-10-09T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U9292717580026D" T="2026-10-09T07:05:55Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14112,7 +14112,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:06:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A681A5E001ED" T="2026-01-26T12:04:01Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14158,7 +14158,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A6821BC00181" T="2026-01-26T12:04:09Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14203,7 +14203,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A68253E00148" T="2026-01-26T12:08:42Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14265,7 +14265,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A683A6C001C8" T="2026-01-26T12:09:18Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14327,7 +14327,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-08-05T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C696E800BF7" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14372,7 +14372,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:23:26+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A685DA900138" T="2026-01-26T12:04:18Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14416,7 +14416,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:23:26+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A686DAB0017B" T="2026-01-26T12:04:27Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14460,7 +14460,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:28:06+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A687065001CE" T="2026-01-26T12:03:39Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14505,7 +14505,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:06:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A68871000189" T="2026-01-26T12:09:27Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14551,7 +14551,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A688F3600154" T="2026-01-26T12:09:35Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14596,7 +14596,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A6891CF001C3" T="2026-01-26T12:09:59Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14658,7 +14658,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T09:56:40+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <SDGS>
                   <SDG SI="DICTIONARY" GID="root">
                      <SD SI="UniqInteger" GID="moduleObjectGenesisId">U75A68931100043</SD>
@@ -14669,7 +14669,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A68931F001B6" T="2026-01-26T12:10:18Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14798,7 +14798,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T08:35:44+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A868EC2001A2" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14852,7 +14852,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T10:36:21+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858A007700171" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14896,7 +14896,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A68CBB3006D7" T="2026-01-26T12:10:28Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14942,7 +14942,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:06:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A68CEF500999" T="2026-01-26T12:10:31Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -14988,7 +14988,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A689C6A00BFA" T="2026-01-26T12:10:41Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15033,7 +15033,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A689C7D00BC5" T="2026-01-26T12:11:22Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15087,7 +15087,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A689C7D02955" T="2026-01-26T12:11:38Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15141,7 +15141,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-08-05T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C7697500B6B" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15185,7 +15185,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:23:26+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A689C9800B0F" T="2026-01-26T12:10:54Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15229,7 +15229,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:23:26+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A689CA300BA9" T="2026-01-26T12:11:45Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15377,7 +15377,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-05T08:10:28+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A8A629C600192" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15561,7 +15561,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:17:57+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CC47A00000A" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15608,7 +15608,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:59:18+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CCED29003BC" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15655,7 +15655,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:59:18+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD057000186" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15702,7 +15702,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:18:11+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD48B900332" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15748,7 +15748,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:52:52+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CBD34800112" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15791,7 +15791,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T09:48:12+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A87C0C00011F" T="2026-01-26T12:11:48Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15836,7 +15836,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T09:52:44+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A87D2CF00155" T="2026-01-26T12:12:54Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15881,7 +15881,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:33:22+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CB8569001B6" T="2026-01-26T12:15:53Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -15942,7 +15942,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:53:35+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CBD637000DD" T="2026-01-26T12:16:08Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16007,7 +16007,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:54:43+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CBDAB000098" T="2026-01-26T12:16:23Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16068,7 +16068,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:54:43+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CBDDF900139" T="2026-01-26T12:16:40Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16129,7 +16129,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:54:43+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CC021900138" T="2026-01-26T12:16:48Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16173,7 +16173,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-20T08:42:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78EE7D34000110" T="2026-01-26T12:15:06Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16217,7 +16217,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-23T08:54:27+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78EE7D9B200392" T="2026-01-26T12:15:14Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16261,7 +16261,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T15:46:30+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4DB9E500150" T="2026-01-26T12:15:18Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16305,7 +16305,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T15:49:06+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4DC467001A7" T="2026-01-26T12:15:22Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16349,7 +16349,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T15:49:52+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4DC74A00157" T="2026-01-26T12:15:26Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16393,7 +16393,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T15:46:30+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4DBDD4001FF" T="2026-01-26T12:15:30Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16437,7 +16437,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:16:09+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CC409D001FC" T="2026-01-26T12:17:16Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16487,7 +16487,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:16:09+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CC5F8200100" T="2026-01-26T12:17:37Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16537,7 +16537,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:16:09+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CC621C00166" T="2026-01-26T12:18:22Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16587,7 +16587,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:54:43+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CC641C00177" T="2026-01-26T12:17:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16631,7 +16631,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:01:48+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD07070017B" T="2026-01-26T12:18:50Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16681,7 +16681,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:16:09+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD2B7400151" T="2026-01-26T12:17:50Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16731,7 +16731,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:16:09+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD2C9600191" T="2026-01-26T12:17:59Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16781,7 +16781,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T14:16:09+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD2DBE00138" T="2026-01-26T12:18:41Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16831,7 +16831,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T13:54:43+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD2EA900166" T="2026-01-26T12:18:06Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16875,7 +16875,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:01:48+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD2F5B001FF" T="2026-01-26T12:19:00Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16925,7 +16925,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:12:53+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD335E00128" T="2026-01-26T12:19:16Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -16978,7 +16978,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2022-10-06T15:20:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U828CD53BA001C6" T="2026-01-26T12:19:28Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17031,7 +17031,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:06:52+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E1B4A001D2" T="2026-01-26T12:14:35Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17075,7 +17075,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:08:53+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E235B00105" T="2026-01-26T12:14:38Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17119,7 +17119,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:08:53+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E25C20017E" T="2026-01-26T12:14:42Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17163,7 +17163,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:06:52+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E1E900019B" T="2026-01-26T12:14:46Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17207,7 +17207,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:13:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E3653001B1" T="2026-01-26T12:12:00Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17251,7 +17251,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:16:30+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E41E1001E9" T="2026-01-26T12:12:02Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17295,7 +17295,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:16:30+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E4486001FE" T="2026-01-26T12:12:23Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17339,7 +17339,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:13:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E3879001D7" T="2026-01-26T12:12:26Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17383,7 +17383,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:46:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B07BA5A0016F" T="2026-01-26T12:12:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17428,7 +17428,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:48:21+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B07C15100133" T="2026-01-26T12:12:50Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17474,7 +17474,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-18T16:18:00+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72A4E480F00149" T="2026-01-26T12:12:06Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17519,7 +17519,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:36:08+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B079083001DE" T="2026-01-26T12:14:52Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17563,7 +17563,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:36:08+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B07AB0A001F2" T="2026-01-26T12:14:56Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17607,7 +17607,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:36:08+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B07AF15001DC" T="2026-01-26T12:12:31Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17651,7 +17651,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-10-24T09:36:08+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U72B07B57E001C4" T="2026-01-26T12:12:35Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17695,7 +17695,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T10:42:17+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A88A91600117" T="2026-01-26T12:12:56Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17740,7 +17740,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T10:45:25+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U787EA0F0800BEA" T="2026-01-26T12:11:51Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17784,7 +17784,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T10:47:01+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A88BC1800148" T="2026-01-26T12:11:55Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17849,7 +17849,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T08:48:07+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A86C07E0015F" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17887,7 +17887,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T10:40:31+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C2269001A5" T="2026-01-26T12:19:38Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17932,7 +17932,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T10:36:21+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C22CC001D3" T="2026-01-26T12:19:46Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -17976,7 +17976,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T10:36:21+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C2317001BA" T="2026-01-26T12:19:51Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18020,7 +18020,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A6940420069F" T="2026-01-26T12:20:35Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18078,7 +18078,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-19T10:09:19+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U75A69404202215" T="2026-01-26T12:20:52Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18385,7 +18385,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:11:33+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C2E1E001F3" T="2026-01-26T12:21:35Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18429,7 +18429,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:11:33+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C36050018F" T="2026-01-26T12:30:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18474,7 +18474,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:13:40+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C368600304" T="2026-01-26T12:32:08Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18518,7 +18518,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2021-01-18T16:10:39+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7C64F2A7800160" T="2026-01-26T12:34:05Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18563,7 +18563,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:11:33+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C39F3001FC" T="2026-01-26T12:21:44Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18608,7 +18608,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:15:27+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C3DB700125" T="2026-01-26T12:21:51Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18652,7 +18652,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:16:57+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C439100150" T="2026-01-26T12:22:03Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18696,7 +18696,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:16:57+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C470B00103" T="2026-01-26T12:30:15Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18741,7 +18741,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:17:52+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C47400013C" T="2026-01-26T12:35:24Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18785,7 +18785,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:18:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C498500132" T="2026-01-26T12:32:22Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18829,7 +18829,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:18:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C973000151" T="2026-01-26T12:32:26Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18873,7 +18873,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:39:44+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858C9ECD0012F" T="2026-01-26T12:28:41Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18918,7 +18918,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:42:05+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7CA0DAE2A00355" T="2026-01-26T12:35:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18964,7 +18964,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T14:39:01+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7CA0DAE2A01C2E" T="2026-01-26T12:36:04Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -18994,7 +18994,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T14:40:30+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7CA0DAE2A0227E" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19037,7 +19037,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:42:05+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CAC0000175" T="2026-01-26T12:28:42Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19081,7 +19081,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:45:59+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CB7B5001BD" T="2026-01-26T12:33:03Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19126,7 +19126,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:49:23+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CC57E00144" T="2026-01-26T12:35:38Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19170,7 +19170,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T10:34:11+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U747A988BA0013C" T="2026-01-26T12:31:06Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19214,7 +19214,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T10:37:26+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U747A995A000182" T="2026-01-26T12:31:08Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19258,7 +19258,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T10:34:11+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U747A99CE800126" T="2026-01-26T12:31:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19302,7 +19302,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T10:37:26+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U747A99E9D00191" T="2026-01-26T12:31:37Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19346,7 +19346,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T10:37:26+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U747A9A396001AE" T="2026-01-26T12:31:41Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19390,7 +19390,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:51:39+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CCE7A00104" T="2026-01-26T12:27:49Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19435,7 +19435,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:52:36+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CD24E001DA" T="2026-01-26T12:28:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19480,7 +19480,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T10:46:34+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AEEA40480087A" T="2026-01-26T12:30:50Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19524,7 +19524,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2021-01-18T15:31:49+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7C64E7F1500165" T="2026-01-26T12:33:49Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19569,7 +19569,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:51:39+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CDE9300189" T="2026-01-26T12:29:40Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19613,7 +19613,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:51:39+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CDF5300182" T="2026-01-26T12:30:04Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19657,7 +19657,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:51:39+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AEEAAE5E003E9" T="2025-12-08T09:42:29Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19708,7 +19708,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:51:39+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U6858CEE360017D" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19752,7 +19752,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:15:27+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AEEA598500BDC" T="2026-01-26T12:33:39Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19797,7 +19797,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T13:15:27+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AEEAA359009A7" T="2026-01-26T12:33:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19842,7 +19842,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T11:24:38+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U747AA626800131" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -19988,7 +19988,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2021-02-04T08:30:52+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7C8877B4F001E2" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20090,7 +20090,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-11-10T13:24:20+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AD4C61460014E" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20134,7 +20134,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T12:39:26+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C86C0300DE0" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20178,7 +20178,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-01-29T09:32:57+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A7A748940092B" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20224,7 +20224,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:00:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847400D31" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20269,7 +20269,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:02:41+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847500DE6" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20313,7 +20313,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:03:15+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847501931" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20358,7 +20358,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-11-10T13:28:01+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AD4C7CEA001FA" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20402,7 +20402,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:05:06+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C884750284E" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20446,7 +20446,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:05:06+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A7A7BAC300090" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20490,7 +20490,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:03:15+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C884750385B" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20535,7 +20535,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:11:53+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C88475044FF" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20580,7 +20580,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:11:53+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847504EEF" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20624,7 +20624,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:11:53+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C88475058C0" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20668,7 +20668,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:13:31+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847506283" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20712,7 +20712,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:11:53+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847506CCC" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20762,7 +20762,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-09T08:28:49+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847507DBB" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20806,7 +20806,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:14:26+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847508AA6" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20851,7 +20851,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C9152C00B30" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -20897,7 +20897,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2016-01-12T15:15:44+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7A5C8847509949" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21013,7 +21013,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:09:08+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AE87D00600BE4" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21058,7 +21058,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:11:56+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AE87D00601B59" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21102,7 +21102,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:11:56+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AE87D0060293F" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21146,7 +21146,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:09:08+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AE87D00603712" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21191,7 +21191,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:23:37+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AE87D006047F0" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21235,7 +21235,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T10:42:17+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U787E9D69300B1F" T="2026-01-26T12:40:24Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21371,7 +21371,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-20T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AA86022C00199" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21401,7 +21401,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:09:08+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C8CC0A03C1F" T="2026-01-26T12:42:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21446,7 +21446,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-20T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AA8602B8001BE" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21476,7 +21476,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:11:56+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C8CC0A045DD" T="2026-01-26T12:43:00Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21520,7 +21520,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-20T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AA86032B001E5" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21550,7 +21550,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:11:56+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C8CC0A04DED" T="2026-01-26T12:42:46Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21594,7 +21594,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-20T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AA8603A9001DF" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21624,7 +21624,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:09:08+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C8CC0A054C6" T="2026-01-26T12:42:49Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21669,7 +21669,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-20T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AA86047500109" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21699,7 +21699,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-02-28T11:23:37+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C8CC0A05BF0" T="2026-01-26T12:42:52Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21743,7 +21743,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-10-20T23:59:59+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U7AA8604FB00105" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21773,7 +21773,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T10:42:17+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C8CC0A08F84" T="2026-01-26T12:43:20Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21840,7 +21840,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-23T08:58:03+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78EE7E835001BE" T="2022-11-14T08:56:43Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21893,7 +21893,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T09:52:44+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U787E9329C00BB8" T="2026-01-26T12:43:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21938,7 +21938,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-26T14:45:39+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78D27CE5200574" T="2026-01-26T12:43:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -21982,7 +21982,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-26T14:47:24+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78D27CE6A0057A" T="2026-01-26T12:44:01Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22026,7 +22026,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-26T14:48:04+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78D27CE6A00D39" T="2026-01-26T12:44:07Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22070,7 +22070,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-08-01T10:56:26+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U82947C97700B9A" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22114,7 +22114,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2018-08-01T10:56:26+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U82947E1B1009F6" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22158,7 +22158,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-06-20T10:42:17+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U787E9309F00BBC" T="2026-01-26T12:43:51Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22299,7 +22299,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78EE8E36800362" T="2026-01-26T12:45:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22344,7 +22344,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:28:54+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F487369004F2" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22388,7 +22388,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:28:54+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F487A4A001B9" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22432,7 +22432,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F4737AC00BD9" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22477,7 +22477,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U79366E9C0003BD" T="2026-01-26T12:47:16Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22522,7 +22522,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U79366E9DC003C1" T="2026-01-26T12:47:44Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22567,7 +22567,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U79366E9E700315" T="2026-01-26T12:48:00Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22612,7 +22612,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U79366E9F300366" T="2026-01-26T12:48:13Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22657,7 +22657,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F4728C2009FA" T="2026-01-26T12:46:34Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22702,7 +22702,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:33:04+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48844C0035F" T="2026-01-26T12:46:42Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22746,7 +22746,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:34:06+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48886C00328" T="2026-01-26T12:46:46Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22791,7 +22791,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F4775EB003E4" T="2026-01-26T12:47:05Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22835,7 +22835,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:41:22+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48A56600314" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22879,7 +22879,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:42:17+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48A911003C0" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22923,7 +22923,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F477ACA0092F" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -22967,7 +22967,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479B510032B" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23011,7 +23011,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479B6F00319" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23055,7 +23055,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479B790038B" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23099,7 +23099,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479B850039B" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23143,7 +23143,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T11:28:16+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479D570032B" T="2026-01-26T12:48:54Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23187,7 +23187,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T11:31:30+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479D6E00355" T="2026-01-26T12:48:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23231,7 +23231,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479F3300315" T="2026-01-26T12:49:08Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23275,7 +23275,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479F4C0038C" T="2026-01-26T12:49:12Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23319,7 +23319,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479E93003D5" T="2026-01-26T12:48:30Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23363,7 +23363,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F479EAC0035D" T="2026-01-26T12:48:48Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23407,7 +23407,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:48:25+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48C197003E4" T="2026-01-26T12:49:41Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23613,7 +23613,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5A1008BC" T="2026-01-26T12:50:26Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23658,7 +23658,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:28:54+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5BA00707" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23702,7 +23702,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:28:54+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5BA010A8" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23746,7 +23746,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5C8007A3" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23791,7 +23791,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F6891220035D" T="2026-01-26T12:50:50Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23836,7 +23836,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F68913A003F1" T="2026-01-26T12:51:02Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23881,7 +23881,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F68914400383" T="2026-01-26T12:51:25Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23926,7 +23926,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F68914E00327" T="2026-01-26T12:51:31Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -23971,7 +23971,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5E00072D" T="2026-01-26T12:51:49Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24016,7 +24016,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:33:04+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED007E9" T="2026-01-26T12:56:41Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24060,7 +24060,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:34:06+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED00F56" T="2026-01-26T12:57:13Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24105,7 +24105,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED0191C" T="2026-01-26T12:51:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24149,7 +24149,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:41:22+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED023CF" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24193,7 +24193,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:42:17+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED02B1A" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24237,7 +24237,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-04-06T09:59:37+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C7EE54001EB" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24281,7 +24281,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-04-06T10:04:29+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C811DF003F4" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24325,7 +24325,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-04-06T10:06:45+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U790C81ADD00307" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24370,7 +24370,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2019-05-17T10:45:15+02:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED03456" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24414,7 +24414,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED03DED" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24458,7 +24458,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5ED04380" T="2026-01-23T13:07:57Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24502,7 +24502,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5EE00292" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24546,7 +24546,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:49:51+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5EE00858" T="2026-01-23T13:07:58Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24590,7 +24590,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T11:28:16+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5FE0078D" T="2026-01-26T12:55:56Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24634,7 +24634,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T11:31:30+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E5FF00177" T="2026-01-26T12:56:00Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24678,7 +24678,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E60F007D8" T="2026-01-26T12:56:14Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24722,7 +24722,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E60F00FBB" T="2026-01-26T12:56:16Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24766,7 +24766,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E60F0174E" T="2026-01-26T12:55:39Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24810,7 +24810,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-06T10:26:24+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E60F01DB9" T="2026-01-26T12:55:48Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
@@ -24854,7 +24854,7 @@
                <LONG-NAME>
                   <L-4 L="DE">Maßnahmenstand - Anfang</L-4>
                </LONG-NAME>
-               <DATE-1 SYSCOND="Europe/Berlin">2020-03-26T09:48:25+01:00</DATE-1>
+               <DATE-1 SYSCOND="Europe/Berlin">2026-04-30T23:59:59+02:00</DATE-1>
                <FM-TASK-SET ID="U78F48E60F0251F" T="2026-01-26T12:50:20Z" F-ID-CLASS="FM-TASK-SET">
                   <LONG-NAME>
                      <L-4 L="DE">Maßnahmengruppe</L-4>
